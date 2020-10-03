@@ -1,0 +1,131 @@
+                          PLEIADES WATCHTOWER LICENSE                             
+                            Version 1, 03 Oct. 2020
+-------------------------------------------------------------------------------
+
+Copyright (C) 2020 Naphtha Nepanthez <https://lotte.link/>
+Everyone is permitted to copy and distribute verbatim copies of this license
+document, but changing it is not allowed.
+
+Naphtha Nepanthez is a pseudonym (or "pen name"). For a more permanent source
+of identity, you may use the provided web address, or the e-mail address
+<naphtha@lotte.link>.
+
+§000 Preamble
+
+  The Pleiades Watchtower License (often abbreviated in this document to PWL)
+is a set of permissive but simultaneously protective/paranoid terms and
+conditions that allow primarily for free (as in freedom) usage of protected
+works.
+
+  This license guarantees both productive contributions and freedom while
+simultaneously giving the copyright holder more control over their work, as
+well as some sane protections should they decide to change any terms or
+protect themselves from rogue contributors.
+
+  Art is art. The form of art is irrelevant, it can be musical, it can be a
+circuit design, it can be a series of computer processor instructions, or it
+could be practically anything else.
+
+  In the case of computer programming, everyone should have the freedom to
+view your source code, modify your code and distribute it to others; However,
+they should not be permitted to outright "steal" your work and claim it as
+their own creation. They should be advised against taking your work, improving
+on it and preventing you from using those changes with a different license, and
+so on. Most importantly, if you decide to change the terms, your changes should
+have consistent and powerful weight, as you are the original artist.
+
+  The precise terms and conditions for copying, distribution and modification
+follow.
+
+§001 Glossary
+
+  * The "Object" or the "Project"
+    
+      When referring to an "Object," we refer to the copyrighted work that is
+    protected under this license. This can take any form, such as a programming
+    library, computer program, musical composition, compiled binary, etc. This
+    document is to be distributed "alongside" the Object, and applies to any
+    and all parts of the Object.
+    
+  * The "License Master"
+  
+      The License Master is the entity that produced the original Object. This
+    title can be transferred elsewhere, and such an act is classified as a
+    modification of the license terms. Any open source contributions made to
+    the Object by other contributors become a part of the Object, and are thus
+    belong to the License Master.
+    
+      If the Object is copied and modified in such a way that the changes are
+    not given back to the original Object's source project (referred to in some
+    cases as "remixing" or "fair use"), the entity that modified the original
+    Object then becomes the License Master of the new, modified Object. For
+    this exception to be applicable, the aforementioned entity must modify the
+    original Object to an acceptable degree, such that it may be considered
+    "fair use." A modified version of the original Object becomes "fair use"
+    when it is considered impossible to merge the changes made to the original
+    Object back into the original Object's source, or the original License
+    Master or their chosen project maintainers refuses to accept your changes
+    to the Object.
+    
+  * A "contributor"
+  
+      A contributor refers to an entity who has modified the original Object
+    and wishes to give their changes back to the providers/producers of the
+    original Object such that the original Object now contains the changes
+    (or a form of the changes) supplied by the contributor.
+    
+      When an entity modifies the original Object, that modified version
+    belongs to the modifying entity. Only the changes made belong to them,
+    however. Everything written or "owned" by the original License Master still
+    belongs to the original License Master, and any terms detailed by the
+    original License Master apply to the work that belongs to them. There must
+    be a clear distinction between the License Master's original work and the
+    work provided by the modifying entity until it is merged back into the
+    original Object. This essentially means that any changes made to the
+    original Object are not owned, created by or belong to the original License
+    Master until/unless they accept those changes as belonging to their
+    original Object.
+    
+§002 No Surrender of Others' Freedom.
+
+  If conditions are imposed on you (whether by court order, agreement or
+otherwise) that contradict the conditions of this License, they do not
+excuse you from the conditions of this License.  If you cannot convey a
+covered work so as to satisfy simultaneously your obligations under this
+License and any other pertinent obligations, then as a consequence you may
+not convey it at all. For example, if you agree to terms that obligate you
+to collect a royalty for further conveying from those to whom you convey
+the Object, the only way you could satisfy both those terms and this
+License would be to refrain entirely from conveying the Object.
+    
+§003 Limitation of Liability, Disclaimer of Warranty and Interpretation.
+    
+  THERE IS NO WARRANTY FOR THE OBJECT, TO THE EXTENT PERMITTED BY
+APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT
+HOLDERS AND/OR OTHER PARTIES PROVIDE THE OBJECT "AS IS" WITHOUT WARRANTY
+OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO,
+THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE OBJECT
+IS WITH YOU. SHOULD THE OBJECT PROVE DEFECTIVE, YOU ASSUME THE COST OF
+ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
+    
+  IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING
+WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS
+THE OBJECT AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY
+GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE
+USE OR INABILITY TO USE THE OBJECT (INCLUDING BUT NOT LIMITED TO LOSS OF
+DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD
+PARTIES OR A FAILURE OF THE Object TO OPERATE WITH ANY OTHER OBJECTS),
+EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF
+SUCH DAMAGES.
+
+  If the disclaimer of warranty and limitation of liability provided
+above cannot be given local legal effect according to their terms,
+reviewing courts shall apply local law that most closely approximates
+an absolute waiver of all civil liability in connection with the
+Object, unless a warranty or assumption of liability accompanies a
+copy of the Object in return for a fee.
+
+§004 ...
+
+[unfinished]
